@@ -63,3 +63,5 @@ var myAge;
 function greeter(myName, myAge){
 console.log("Hi! I am "+ myName + " and I am " + myAge + " years old");
 };
+
+
